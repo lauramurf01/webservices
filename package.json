@@ -1,0 +1,26 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "AssignmentOne",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongodb": "^2.2.24",
+    "shortid": "^2.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauramurf01/assignment1.git"
+  },
+  "author": "Laura Murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauramurf01/assignment1/issues"
+  },
+  "homepage": "https://github.com/lauramurf01/assignment1#readme"
+}
